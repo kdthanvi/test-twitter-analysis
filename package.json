@@ -1,7 +1,7 @@
 {
-  "name": "rpay-twitter-analysis",
+  "name": "test-twitter-analysis",
   "version": "1.0.0",
-  "description": "analyzing tweets for r-pay",
+  "description": "analyzing tweets for test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
